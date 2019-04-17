@@ -18,7 +18,7 @@ import ctypes # for signed int
 ################################
 # MPU9250
 ################################
-MPU9250_ADDRESS = 0x68
+MPU9250_ADDRESS = 0x69
 AK8963_ADDRESS  = 0x0C
 DEVICE_ID       = 0x71
 WHO_AM_I        = 0x75
